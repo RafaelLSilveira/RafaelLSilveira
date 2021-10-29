@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Rafael Silveira
+- 💼 I’m currently working on Grupo Voalle
+- 🚀 I’m currently learning everything in everywhere, aways #never-stop-learning
+- 👯 I’m looking to collaborate on Educational open source projects
+- 💬 Ask me about `[ReactJS, C#, Git, Bash, Linux, Arduino]`
+- 📫 How to reach me: sepolrafael@gmail.com
+- 👨‍🎓 Graduated in Information Systems | MBA in Business Management **in progress** 
 
-<!--
-**RafaelLSilveira/RafaelLSilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Rafael Silveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelLSilveira&show_icons=true&theme=synthwave)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Rafael Silveira's GitHub followers](https://img.shields.io/github/followers/RafaelLSilveira?style=flat&labelColor=0D0D0D&logo=Github&Color=white)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0D0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/rafael-lopes-silveira-aa07209a)
