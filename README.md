@@ -1,4 +1,4 @@
-### Hi there, I'm Rafael Silveira
+### Hi there, I'm Rafael Silveira 💻
 
 ---
 <img align="right" width="45%" height="auto" position="absolute" margin="auto" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
