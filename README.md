@@ -18,4 +18,4 @@
 
 ---
 ![Rafael Silveira's GitHub followers](https://img.shields.io/github/followers/RafaelLSilveira?style=flat&labelColor=0D0D0D&logo=Github&Color=white)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0D0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/rafael-lopes-silveira-aa07209a)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0D0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/rafaellsilveira)
