@@ -3,8 +3,7 @@
 ---
 <img align="right" width="45%" height="auto" position="absolute" margin="auto" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
-**Full-Stack ReactJS and C#**
-
+- :metal: Full-Stack ReactJS and C#
 - 💼 I’m currently working on [Grupo Voalle](https://grupovoalle.com.br)
 - 🚀 I’m currently learning everything in everywhere, aways #never-stop-learning
 - 👯 I’m looking to collaborate on Educational open source projects
