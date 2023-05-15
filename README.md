@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Educational open source projects
 - 💬 Ask me about `[ReactJS, C#, Git, Bash, Linux, Arduino]`
 - 📫 How to reach me: sepolrafael@gmail.com
-- 👨‍🎓 Graduated in Information Systems | MBA in Business Management **in progress** 
+- 👨‍🎓 Graduated in Information Systems | MBA in Business Management
 
 ---
 ![Rafael Silveira's GitHub followers](https://img.shields.io/github/followers/RafaelLSilveira?style=flat&labelColor=0D0D0D&logo=Github&Color=white)
